@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+    <setting name="url" >
+        http://members.tsetmc.com/tsev2/excel/MarketWatchPlus.aspx?d=0
+    </setting>
+    <setting name="path" >
+        H:\Temp
+    </setting>
+</settings>
